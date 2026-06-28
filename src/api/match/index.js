@@ -1,0 +1,5 @@
+export { getMatchCount } from './getMatchCount.js'
+export { likeUser } from './likeUser.js'
+export { getLikes } from './getLikes.js'
+export { getMatchHistory } from './getMatchHistory.js'
+export { getSentLikes } from './getSentLikes.js'
